@@ -6,4 +6,8 @@ There are 2 patches in this repository, one was used in the creation of Boundari
 
 - [Listen](https://eoin-osullivan.bandcamp.com/album/boundaries)
 
-These patches can be downloaded and used to create your own pieces of generative music. Simply download the patches, open them in Max, load in your own samples and start the patch. Further instructions and information are contained within the patches/sub-patches.
+To create this work, I recorded sections of music in Logic Pro X, exported these as audio files and imported them into the Max patches. These patches can be downloaded and used to create your own pieces of generative music. Simply download the patches, open them in Max, load in your own samples and start the patch. Further instructions and information are contained within the patches/sub-patches.
+
+
+## Credits
+This project utilises the [ml.* library](https://www.benjamindaysmith.com/ml-machine-learning-toolkit-in-max) to implement algorithmic processes such as markov chains.
